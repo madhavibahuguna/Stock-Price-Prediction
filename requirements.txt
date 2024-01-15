@@ -1,0 +1,16 @@
+click
+streamlit
+tensorflow
+protobuf
+keras
+matplotlib
+numpy
+pandas
+pandas_datareader
+plotly
+prophet
+pyathena
+scikit_learn
+seaborn
+statsmodels
+yfinance
